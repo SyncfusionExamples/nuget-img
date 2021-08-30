@@ -9,6 +9,8 @@ Syncfusion Blazor Components is a modern enterprise native UI components library
 
 ## Components List
 
+<table id="table">
+
 <style>
 #table
 {
@@ -43,7 +45,6 @@ border:0 !important;
 
 </style>
 
-<table id="table">
 <tbody>
 <colgroup>
 <col style="width: 220px">
