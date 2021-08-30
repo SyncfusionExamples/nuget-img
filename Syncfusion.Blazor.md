@@ -10,41 +10,6 @@ Syncfusion Blazor Components is a modern enterprise native UI components library
 ## Components List
 
 <table id="table">
-
-<style>
-#table
-{
-border:0 !important;
-line-height: 2!important;
-}
-
-tr
-{
-border:0 !important;
-}
-
-td
-{
-border:0 !important;
-vertical-align: top;
-}
-
-.controlanchorlink
-{
-text-decoration: none!important;
-font-size: 14px!important; 
-text-align: left!important;
-}
-.controlcategory
-{
-font-size: 14px!important;
-text-align: left!important;
-font-weight: bold!important;
-border:0 !important;
-}
-
-</style>
-
 <tbody>
 <colgroup>
 <col style="width: 220px">
