@@ -1,6 +1,3 @@
-
-This package provides 70+ native Blazor components to work with Blazor client-side (Blazor WebAssembly) and server-side projects seamlessly.  
-
 ## Syncfusion Blazor Components
 
 Syncfusion Blazor Components is a modern enterprise native UI components library for creating Blazor WASM (WebAssembly or Server applications. Syncfusion Blazor components library has been built from the ground up to be lightweight, responsive, modular, and touch-friendly.
